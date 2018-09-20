@@ -17,30 +17,18 @@ Join the Windows Mixed Reality Team at these upcoming events!
 San Francisco, CA 94107
 
 ---
-## Mixed Reality & HoloLens Work Group
-### September 10, 2018 6:30PM - 8:30PM
-The Mixed Reality Workgroup is an opportunity for MR developers (AR, VR, XR, MR, whatever!) to come together, share ideas, and get work done in a friendly and supportive environment!
-
-**Register for this event [here](https://www.meetup.com/hololens-mr/events/254051135/).**
-
-
----
-## AWE Meet-up - Sports & Entertainment
-### September 11, 2018 6:30 PM - 9:00 PM
-This month we are looking at how augmented reality is changing the game of sports and the face of entertainment.
-Beer and pizza will be served during networking.
-Interested in demoing, sponsoring or volunteering at this event? Fill out this form https://augmentedworldexpo.com/awe-nite-meetups/
-
-**Register for this event [here](https://www.meetup.com/AWENiteSF/events/252620689/).**
-
-
----
 ## Mixed Reality: Augmenting Our World
 ### September 20, 2018 5:00PM - 8:30PM
 Microsoft’s very own Yoyo Zhang, Program Manager, Windows Mixed Reality, will be presenting at this event. Join us for an exciting evening of talks, a panel discussion, and a HoloLens demonstration as we explore the new possibilities of an augmented world. Hope to see you there! 
 
 **For the full agenda, list of speakers and registration click [here](https://siliconvalleyforum.com/event/mixed-reality-augmenting-our-world/).**
 
+---
+## Mixed Reality: Mixed Reality Workgroup
+### September 24, 2018
+The Mixed Reality Workgroup is an opportunity for MR developers (AR, VR, XR, MR, whatever!) to come together, share ideas, and get work done in a friendly and supportive environment!
+
+**Register [here](https://www.meetup.com/hololens-mr/events/254791796/).**
 
 ---
 ## IGNITE
@@ -68,6 +56,13 @@ Microsoft will be sponsoring VRS 2018, the annual executive conference produced 
 **Register for this event [here](https://www.vrsconference.com/).**
 
 ---
+## Microsoft HoloLens & Windows Mixed Reality Meet-Up 
+### October 15, 2018
+Let's keep on talking about HoloLens and Mixed Reality. This time it's about what it takes to make HoloLens apps, and an amazing new feature coming to HoloLens!.
+
+**Register for this event [here](https://www.meetup.com/hololens-mr/events/254664405/).**
+
+---
 ## VRS Summit
 ### October 18, 2018
 This Innovation Junto will explore a variety of the hottest topics and themes in technology & innovation. Top 5 Junto 2018 Themes:
@@ -88,6 +83,10 @@ Come and check out the Microsoft booth at Unite LA – Unity’s premium develop
 
 ---
 # Past Events
+[AWE Nite SF – Augmented Reality & Sports](https://www.meetup.com/AWENiteSF/events/252620689/) - September 11, 2018
+
+[Mixed Reality & HoloLens Work Group](https://www.meetup.com/hololens-mr/events/254051135/) - September 10, 2018
+
 [WebXR Hackathon Challenge](https://www.eventbrite.com/e/webxr-weekend-challenge-tickets-46100317290) - June 29 - July 1, 2018
 
 [Non-Gaming meet-up (Medical)](https://www.eventbrite.com/e/ngvr-13-medical-xr-the-future-of-healthcare-using-immersive-technology-tickets-46958021707) - July 16, 2018
